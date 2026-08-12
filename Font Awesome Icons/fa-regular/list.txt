@@ -1,0 +1,5 @@
+fa-regular fa-user-friends
+fa-regular fa-user-group
+fa-regular fa-heart
+fa-regular fa-flag
+fa-regular fa-copy

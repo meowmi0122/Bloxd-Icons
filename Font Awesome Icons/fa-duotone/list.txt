@@ -1,0 +1,2 @@
+fa-duotone fa-planet-ringed
+fa-duotone fa-hat-santa
