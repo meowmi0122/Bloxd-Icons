@@ -22,7 +22,7 @@ Bunny Hop
 FallDamage
 Feather Falling
 Thief
-X-Ray Vision
+XRay Vision
 Mining Yield
 Brain Rot
 Rested Damage
